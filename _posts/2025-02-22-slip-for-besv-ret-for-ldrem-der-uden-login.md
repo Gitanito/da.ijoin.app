@@ -4,6 +4,7 @@ title: Slip for Besværet - Forældremøder Uden Login
 subtitle: Maksimér Deltagelsen ved Forældremøder med Enkel Online Tilmelding
 tags: [forældremøde, online tilmelding]
 author: ijoin.app
+language: da
 ---
 
 # Stop Kampen mod Kalenderkaos - Effektiv Tilmelding til Forældresamtaler

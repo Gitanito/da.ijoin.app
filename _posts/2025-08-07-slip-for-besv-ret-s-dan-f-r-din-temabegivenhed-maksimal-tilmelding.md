@@ -4,6 +4,7 @@ title: Slip for Besværet - Sådan Får Din Temabegivenhed Maksimal Tilmelding
 subtitle: Den nemmeste måde at organisere læseaftener og fællesskabsarrangementer på
 tags: [begivenhedsstyring, temaaften]
 author: ijoin.app
+language: da
 ---
 
 # Optimal Tilmelding til Din Næste Læseaften eller Temabegivenhed

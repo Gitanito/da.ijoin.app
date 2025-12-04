@@ -4,6 +4,7 @@ title: Saml Dine Naboer Til Hjælpeindsatser Uden Besvær
 subtitle: Den nemme måde at organisere spontan nabohjælp på
 tags: [nabohjælp, eventplanlægning]
 author: ijoin.app
+language: da
 ---
 # Den Smarte Måde at Organisere Nabohjælp og Fællesprojekter
 

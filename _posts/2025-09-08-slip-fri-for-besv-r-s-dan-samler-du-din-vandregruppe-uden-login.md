@@ -4,6 +4,7 @@ title: Slip Fri for Besvær - Sådan Samler du Din Vandregruppe Uden Login
 subtitle: Maksimér Deltagelsen til Dit Næste Outdoor-Event med Ét Enkelt Link
 tags: [event-koordinering, vandretur-planlægning]
 author: ijoin.app
+language: da
 ---
 # Stop Jagten på Tilmeldinger - Saml Din Cykel- eller Vandregruppe Øjeblikkeligt
 

@@ -4,6 +4,7 @@ title: Slip for besværet- Planlæg spontane legeaftaler nemt
 subtitle: Maksimer deltagelsen til forældre- og børneevents uden login-stress
 tags: [begivenhedsplanlægning, legeaftaler]
 author: ijoin.app
+language: da
 ---
 # Hvordan du får fuldt hus til din næste spontane familieudflugt
 

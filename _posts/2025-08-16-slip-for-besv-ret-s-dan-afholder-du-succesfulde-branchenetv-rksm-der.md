@@ -4,6 +4,7 @@ title: Slip for Besværet - Sådan Afholder du Succesfulde Branchenetværksmøde
 subtitle: Optimer dine Meetups med den nemmeste tilmelding for dine kolleger
 tags: [Netværksmøder, Eventplanlægning]
 author: ijoin.app
+language: da
 ---
 # Slip for Besværet - Sådan Afholder du Succesfulde Branchenetværksmøder
 

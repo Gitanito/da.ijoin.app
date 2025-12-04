@@ -4,6 +4,7 @@ title: Slip for Besværet - Sådan Afholder du Eksklusive Pop-up Dinners Uden Lo
 subtitle: Maksimér Tilmeldingen til Dit Næste Hemmelige Event med Ét Simpelt Link
 tags: [eventplanlægning, pop-up-dinner]
 author: ijoin.app
+language: da
 ---
 
 # Eksklusive Pop-up Dinners - Få Maksimal Tilmelding til Dit Næste Hemmelige Event

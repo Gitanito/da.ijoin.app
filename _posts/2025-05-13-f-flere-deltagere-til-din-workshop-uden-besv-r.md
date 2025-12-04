@@ -4,6 +4,7 @@ title: Få Flere Deltagere til Din Workshop - Uden Besvær
 subtitle: Slip for besværet med tilmelding og fokusér på dit kreative indhold
 tags: [workshop-tilmelding, event-organisering]
 author: ijoin.app
+language: da
 ---
 
 # Optimal Tilmelding til Dit Kreative Workshop: Mere Kunst, Mindre Administration

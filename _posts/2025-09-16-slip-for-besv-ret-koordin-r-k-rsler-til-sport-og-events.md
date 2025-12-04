@@ -4,6 +4,7 @@ title: Slip for Besværet - Koordinér Kørsler til Sport og Events
 subtitle: Den nemme måde at organisere pålidelige fælleskørsler uden registrering
 tags: [kørselskoordination, eventplanlægning]
 author: ijoin.app
+language: da
 ---
 # Slip for Besværet - Koordinér Kørsler til Sport og Events
 

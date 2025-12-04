@@ -4,6 +4,7 @@ title: Slip for Besværet - Sådan Får Du Maksimal Tilmelding til Din Pre-Party
 subtitle: Den nemmeste måde at koordinere gæster og detaljer til din næste koncert-opvarmning
 tags: [event-koordinering, pre-party]
 author: ijoin.app
+language: da
 ---
 
 # Sig Farvel til Kaos - Få Styr på Din Pre-Party Tilmelding Uden Emails eller Apps

@@ -4,6 +4,7 @@ title: Slip Beta-Test Kaosset- Få Super Feedback Uden Registrering
 subtitle: Maksimer svarprocenten på dine invitationer med et enkelt link
 tags: [event planlægning, beta test]
 author: ijoin.app
+language: da
 ---
 # Slip Beta-Test Kaosset: Få Super Feedback Uden Registrering
 

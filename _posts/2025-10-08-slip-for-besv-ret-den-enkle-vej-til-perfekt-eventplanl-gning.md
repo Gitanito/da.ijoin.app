@@ -4,6 +4,7 @@ title: Slip for Besværet - Den Enkle Vej til Perfekt Eventplanlægning
 subtitle: Maksimér Deltagelsen til Skolearrangementer og Fester Uden Login-Kaos
 tags: [eventplanlægning, forældrebestyrelse]
 author: ijoin.app
+language: da
 ---
 # Slip for Besværet - Den Enkle Vej til Perfekt Eventplanlægning
 

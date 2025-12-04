@@ -4,6 +4,7 @@ title: Alumni-Stammtisch i Lommen - Maksimal Tilslutning Uden Login
 subtitle: Få dine tidligere studiekammerater med til netværksmøder uden besvær
 tags: [alumni-netværk, event-organisering]
 author: ijoin.app
+language: da
 ---
 
 # Alumni-Stammtisch i Lommen - Maksimal Tilslutning Uden Login

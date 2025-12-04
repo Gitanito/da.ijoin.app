@@ -4,6 +4,7 @@ title: Slip for Besværet - Sådan Får Du Frivillige til Skolearrangementer
 subtitle: Koordiner nemt hjælpere til loppemarkeder og skolefester - Uden login
 tags: [skoleevent, frivilligkoordinering]
 author: ijoin.app
+language: da
 ---
 
 # Stop Spildtid - Få Styr på Frivillige til Skoleflovmarkeder med [ijoin.app](https://ijoin.app/index-da.html)

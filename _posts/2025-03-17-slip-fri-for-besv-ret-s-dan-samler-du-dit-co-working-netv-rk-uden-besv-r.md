@@ -4,6 +4,7 @@ title: Slip Fri for Besværet - Sådan Samler Du Dit Co-Working Netværk Uden Be
 subtitle: Den nemmeste vej til spontane og velorganiserede freelancermøder
 tags: [co-working, event-koordinering]
 author: ijoin.app
+language: da
 ---
 
 # Stop Spildt Tid på Koordinering - Få Flere Med til Dit Næste Co-Working Møde

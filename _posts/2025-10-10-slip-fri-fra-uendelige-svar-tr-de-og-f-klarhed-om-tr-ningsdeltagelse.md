@@ -4,6 +4,7 @@ title: Slip Fri fra Uendelige Svar-Tråde og Få Klarhed om Træningsdeltagelse
 subtitle: Den nemme måde at spore fremmøde på for sportshold og foreninger uden besvær
 tags: [Sportshold-fremmøde, Event-koordinering]
 author: ijoin.app
+language: da
 ---
 
 # Stop Spildt Tid- Få Øjeblikkelig Oversigt over Fremmøde til Træning og Kamp

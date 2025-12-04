@@ -4,6 +4,7 @@ title: Drop Spontane Aftaler-koordinering- Få Overblikket
 subtitle: Sådan samler du vennerne til en spontan aften uden besvær
 tags: [event-koordinering, spontane-aftaler]
 author: ijoin.app
+language: da
 ---
 
 # Drop Spontane Aftaler-koordinering - Få Overblikket

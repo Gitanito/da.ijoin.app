@@ -4,6 +4,7 @@ title: Slip for besværet- Planlæg dit næste nabofest nemt og gratis
 subtitle: Sådan får du maksimal tilmelding og hjælp til gadefesten uden logins
 tags: [begivenhedsplanlægning, nabofest]
 author: ijoin.app
+language: da
 ---
 
 # Optimal Tilmelding til Nabofesten – Dit Fællesskab Fortjener det Bedste Værktøj

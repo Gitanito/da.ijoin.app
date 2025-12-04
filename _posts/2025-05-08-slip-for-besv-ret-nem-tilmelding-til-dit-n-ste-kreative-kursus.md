@@ -4,6 +4,7 @@ title: Slip for Besværet - Nem Tilmelding til dit Næste Kreative Kursus
 subtitle: Maksimer Deltagelsen til dine Tøpferkurser og Workshops uden Login-kaos
 tags: [event-tilmelding, tøpferkursus]
 author: ijoin.app
+language: da
 ---
 
 # Slip for Besværet - Nem Tilmelding til dit Næste Kreative Kursus

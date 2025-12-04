@@ -4,6 +4,7 @@ title: Grillfest Ved Søen- Sådan Organiserer Du Det Uden Stress
 subtitle: Maksimal Tilmelding til Spontane Arrangementer Uden Login
 tags: [event-planlægning, gratis-rsvp]
 author: ijoin.app
+language: da
 ---
 # Grillfest Ved Søen: Maksimal Tilmelding til Spontane Arrangementer
 

@@ -4,6 +4,7 @@ title: Slip for Besværet - Organiser Din Studiekreds Uden Login
 subtitle: Få maksimal deltagelse i din læsegruppe med et enkelt link
 tags: [studiegrupper, eventorganisation]
 author: ijoin.app
+language: da
 ---
 
 # Optimal Organisation af Din Studiekreds - Øg Deltagelsen Med Ét Klik

@@ -4,6 +4,7 @@ title: Slip for Besværet - Sådan Får du Maksimal Svarprocent til dit Spontane
 subtitle: Eventplanlægning uden login, apps eller besværlige e-mails - Få styr på gæstelisten nu
 tags: [eventplanlægning, gæstelistestyring]
 author: ijoin.app
+language: da
 ---
 
 # Stop Jagten på Svar - Få Øjeblikkelig Afklaring på Hvem der Kommer til dit Spontane Træf

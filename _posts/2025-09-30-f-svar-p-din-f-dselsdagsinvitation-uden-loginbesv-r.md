@@ -4,6 +4,7 @@ title: Få Svar på Din Fødselsdagsinvitation Uden Loginbesvær
 subtitle: Slip for endeløse opfølgninger - Maksimer svarprocenten for din næste begivenhed
 tags: [eventplanlægning, fødselsdag]
 author: ijoin.app
+language: da
 ---
 
 # Sig Farvel til Besværlige Tilmeldinger: Den Lette Vej til Fuld Kontrol over Din Gæsteliste

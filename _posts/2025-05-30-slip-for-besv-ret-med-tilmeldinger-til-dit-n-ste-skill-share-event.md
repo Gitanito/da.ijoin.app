@@ -4,6 +4,7 @@ title: Slip for Besværet med Tilmeldinger til Dit Næste Skill-Share Event
 subtitle: Maksimer Deltagelsen til dine lokale workshops - Uden login
 tags: [event planlægning, skillshare]
 author: ijoin.app
+language: da
 ---
 # Maksimer Deltagelsen til Lokale Skill-Share Sessions
 

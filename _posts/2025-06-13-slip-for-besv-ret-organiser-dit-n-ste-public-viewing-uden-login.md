@@ -4,6 +4,7 @@ title: Slip for besværet- Organiser dit næste Public Viewing uden login
 subtitle: Maksimer deltagelsen til sportsbegivenheder med nem tilmelding
 tags: [public viewing, event planlægning]
 author: ijoin.app
+language: da
 ---
 # Få fuldt hus til dit Public Viewing- Eventplanlægning gjort nemt
 

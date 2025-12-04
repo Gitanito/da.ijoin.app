@@ -4,6 +4,7 @@ title: Slip for Besværet - Sådan Samler du Kollegerne til After-Work Drinks
 subtitle: Få maksimal tilslutning til jeres næste sociale arrangement uden logins og endeløse e-mails
 tags: [Eventplanlægning, After-Work]
 author: ijoin.app
+language: da
 ---
 
 # Slut med Gættespil - Organisering af After-Work Drinks Gøres Enkelt

@@ -4,6 +4,7 @@ title: Stop bøvlet med ugentlige invitationer - Få styr på din brætspilsafte
 subtitle: Den nemme måde at organisere tilbagevendende events og få maksimal tilmelding
 tags: [event-organisation, brætspil]
 author: ijoin.app
+language: da
 ---
 
 # Stop bøvlet med ugentlige invitationer - Få styr på din brætspilsaften

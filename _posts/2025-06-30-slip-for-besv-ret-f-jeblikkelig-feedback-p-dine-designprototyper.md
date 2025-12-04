@@ -4,6 +4,7 @@ title: Slip for besværet- Få øjeblikkelig feedback på dine designprototyper
 subtitle: Maksimer svarprocenten på din UX/UI feedbacksession
 tags: [UX/UI, Eventplanlægning]
 author: ijoin.app
+language: da
 ---
 
 # Optimal Feedback-Session for UX/UI-Designere – Uden Registrering!

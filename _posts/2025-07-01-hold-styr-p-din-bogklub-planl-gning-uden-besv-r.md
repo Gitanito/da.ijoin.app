@@ -4,6 +4,7 @@ title: Hold styr på din bogklub-planlægning uden besvær
 subtitle: Maksimer fremmødet til dit næste bogklubmøde - Let og gratis
 tags: [bogklub, eventplanlægning]
 author: ijoin.app
+language: da
 ---
 # Den nemme måde at organisere dit ugentlige bogklub-møde på
 

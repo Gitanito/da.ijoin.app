@@ -4,6 +4,7 @@ title: Slip for besværlig tilmelding til dit netværksarrangement
 subtitle: Maksimer deltagelsen til jeres næste erhvervs-Stammtisch
 tags: [event planlægning, netværk]
 author: ijoin.app
+language: da
 ---
 # Den Enkle Vej til Fuldtegnede Erhvervs-Stammtische
 

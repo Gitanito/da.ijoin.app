@@ -4,6 +4,7 @@ title: Stop Email-kaos Koordinér Kørsel til Skoleudflugten Uden Besvær
 subtitle: Den nemme måde at organisere forældrekørsel og maksimere deltagelsen
 tags: [kørselskoordinering, skoleudflugt]
 author: ijoin.app
+language: da
 ---
 
 # Stop Email-kaos: Koordinér Kørsel til Skoleudflugten Uden Besvær
